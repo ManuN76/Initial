@@ -1,12 +1,11 @@
 {
-  "kind": "column",
-  "name": "Base",
-  "description": "Base",
+  "name": "Initial",
+  "description": "First & Last Name Initial",
   "author": "Manu.n",
   "params": [
     {
-      "name": "str",
-      "displayName": "String",
+      "name": "text",
+      "displayName": "Text",
       "type": "string"
     }
   ],
